@@ -178,7 +178,7 @@
                                                     <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="c5K-nB-IfE">
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="menuWebCencel" translatesAutoresizingMaskIntoConstraints="NO" id="c5K-nB-IfE">
                                                     <rect key="frame" x="8" y="14" width="32" height="32"/>
                                                 </imageView>
                                             </subviews>
@@ -1998,6 +1998,7 @@
         <image name="menuContacto" width="32" height="32"/>
         <image name="menuPromos" width="32" height="32"/>
         <image name="menuTiendas" width="32" height="32"/>
+        <image name="menuWebCencel" width="50" height="50"/>
         <image name="pushtelcel" width="540" height="129"/>
         <image name="pushtelcel_01" width="540" height="431"/>
         <image name="recuerdasms" width="540" height="128"/>
